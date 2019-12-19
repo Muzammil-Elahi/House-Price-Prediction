@@ -1,4 +1,4 @@
 # 
 Data: Boston Housing imported from sklearn library
 NOT TIME-SERIES
-Predict house price by idnetiying internal/external factors like number of rooms.
+Predict house price by identifying internal/external factors like number of rooms.
